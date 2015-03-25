@@ -19,3 +19,7 @@ grunt theme : will disperse your _static assets to your theme directory
 grunt --all : will run both tasks at the same time
 
 ```
+
+### Directories
+
+> See manifest.txt for structure explaination
