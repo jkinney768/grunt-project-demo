@@ -14,24 +14,8 @@
 ### Grunt Commands
 
 ```
-+ grunt : will build your _static project
-+ grunt theme : will disperse your _static assets to your theme directory
-+ grunt --all : will run both tasks at the same time
+grunt : will build your _static project
+grunt theme : will disperse your _static assets to your theme directory
+grunt --all : will run both tasks at the same time
 
 ```
-
-### Directories
-
-_statics            // static version of the site
-
-----/src            // precompiled source code
-
---------/assets     // site assets
-
---------/includes   // html includes
-
-
-----/web            // compiled version of statics. Doesn't include .scss or html includes
-
-
-----/theme         // theme templates/asset files for whatever CMS you're working in
