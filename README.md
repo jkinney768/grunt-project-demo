@@ -23,10 +23,15 @@
 ### Directories
 
 _statics            // static version of the site
+
 ----/src            // precompiled source code
+
 --------/assets     // site assets
+
 --------/includes   // html includes
 
+
 ----/web            // compiled version of statics. Doesn't include .scss or html includes
+
 
 ----/theme         // theme templates/asset files for whatever CMS you're working in
